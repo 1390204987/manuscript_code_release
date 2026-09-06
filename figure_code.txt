@@ -1,0 +1,24 @@
+Figure1 C-E   Psychometric_all.m
+
+
+Figure2 A-D  CPturn_temporally.m
+
+Figure2 E,F  CP_corr_2M.m
+
+Figure2 G,H  neural_proportion.m
+
+
+Figure3 A  signal_noise_corr.m
+o
+Figure3 B  noise_corr_contrast.m
+
+
+Figure4 A-F  popu_CPcompare_new.m
+
+
+Figure5 B-E  brainarea_compare_new.m, compare_starttime_p34_same_area.m, time_test_new.m
+
+
+Figure6 A, D  plot_angle.m
+
+Figure6 B, C, E, F axis_compare.m

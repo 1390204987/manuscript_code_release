@@ -1,0 +1,17 @@
+Figure 7A  inputoutput.py
+Figure 7B  checkneuron2.py
+Figure 7C  batch_comparemodule_temporal.py; choicetemporal_128_256.xlsx
+Figure 7D  batch_comparemodule_temporal.py; sactemporal_128_256.xlsx
+Figure 7E   batch_comparemodule_temporal.py; sactemporal_128_256_cut.xlsx
+
+
+fig. S10A  inputoutput.py
+fig. S10B-D  checkneuron2.py
+
+
+fig. S11A   batch_compare_behavior.py; check_batch_behavior.py; behavior_128_256.xlsx; behavior_128_256_cut.xlsx
+fig. S11B   batch_comparemodule_temporal.py; choicetemporal_128_256_cut.xlsx
+
+
+example nets for  colored targets input to hidden layer2 : checkpoint_128_256/...
+example net for colored targets input to hidden layer1: checkpoint/color2h1.t7
